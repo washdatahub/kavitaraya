@@ -90,42 +90,42 @@ export default function Instagram() {
               {/* These are placeholder images - will be replaced with actual Instagram posts when API is connected */}
               <div className="aspect-square bg-white/5 overflow-hidden group cursor-pointer">
                 <img
-                  src="/images/Instagram/F1.jpg"
+                  src="/images/instagram/F1.jpg"
                   alt="Instagram post"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 />
               </div>
               <div className="aspect-square bg-white/5 overflow-hidden group cursor-pointer">
                 <img
-                  src="/images/Instagram/F7.jpg"
+                  src="/images/instagram/F7.jpg"
                   alt="Instagram post"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 />
               </div>
               <div className="aspect-square bg-white/5 overflow-hidden group cursor-pointer">
                 <img
-                  src="/images/Instagram/F8.jpg"
+                  src="/images/instagram/F8.jpg"
                   alt="Instagram post"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 />
               </div>
               <div className="aspect-square bg-white/5 overflow-hidden group cursor-pointer">
                 <img
-                  src="/images/Instagram/F4.jpg"
+                  src="/images/instagram/F4.jpg"
                   alt="Instagram post"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 />
               </div>
               <div className="aspect-square bg-white/5 overflow-hidden group cursor-pointer">
                 <img
-                  src="/images/Instagram/F5.jpg"
+                  src="/images/instagram/F5.jpg"
                   alt="Instagram post"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 />
               </div>
               <div className="aspect-square bg-white/5 overflow-hidden group cursor-pointer">
                 <img
-                    src="/images/Instagram/F6.jpg"
+                    src="/images/instagram/F6.jpg"
                   alt="Instagram post"
                   className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                 />

@@ -8,8 +8,9 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "test-build": "npm run build && npm run preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "node deploy.js",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit -p tsconfig.app.json"
   },
