@@ -51,6 +51,11 @@ Thumbs.db
 # Vite
 .vite
 
+# Deployment
+.deploy-worktree
+.deploy-temp
+node_modules/.cache/gh-pages
+
 # Deployment helper scripts (optional - remove if you want to track them)
 enable-long-paths.ps1
 deploy-alt.js
