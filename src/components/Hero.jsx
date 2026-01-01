@@ -46,7 +46,7 @@ export default function Hero() {
 
       {/* Copyright notice */}
       <div className="absolute bottom-6 right-6 z-10 text-white/70 text-xs font-light">
-        ©{new Date().getFullYear()}, ALL RIGHTS RESERVED
+       KAVITA RAYA ©{new Date().getFullYear()}, ALL RIGHTS RESERVED
       </div>
 
       {/* Scroll indicator */}

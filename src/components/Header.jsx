@@ -29,7 +29,7 @@ export default function Header() {
     >
       <div className="container mx-auto px-6 py-5 flex items-center justify-between">
         <div className="hidden md:block text-white/80 text-xs font-light tracking-wider uppercase">
-          BASED IN INDIA
+          BASED IN NEPAL
         </div>
 
         <button
