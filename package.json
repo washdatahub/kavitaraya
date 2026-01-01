@@ -10,7 +10,7 @@
     "preview": "vite preview",
     "test-build": "npm run build && npm run preview",
     "predeploy": "npm run build",
-    "deploy": "node deploy.js",
+    "deploy": "node deploy-git.js",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit -p tsconfig.app.json"
   },
